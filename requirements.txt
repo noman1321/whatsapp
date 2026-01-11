@@ -1,0 +1,7 @@
+# WhatsApp Web Bulk Message Sender - Requirements
+
+# Selenium for browser automation
+selenium==4.16.0
+
+# WebDriver Manager for automatic ChromeDriver installation
+webdriver-manager==4.0.1

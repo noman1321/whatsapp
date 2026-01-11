@@ -1,0 +1,14 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
+*.log
+chromedriver.exe
+setup_chromedriver.exe
+LICENSE
+# Add other temporary files
+*.tmp
+*.temp
